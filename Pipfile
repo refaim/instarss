@@ -7,6 +7,8 @@ verify_ssl = true
 
 [packages]
 instaloader = "*"
+sentry-sdk = "*"
+python-dotenv = "*"
 
 [requires]
 python_version = "3.9"
